@@ -1,15 +1,14 @@
-/*
 #include<iostream>
 using namespace std;
-#include<string>//ÓÃC++·ç¸ñ×Ö·û´®£¬Òª°üº¬Õâ¸öÍ·ÎÄ¼ş
+#include<string>//ç”¨C++é£æ ¼å­—ç¬¦ä¸²ï¼Œè¦åŒ…å«è¿™ä¸ªå¤´æ–‡ä»¶
 
 int main() {
 
-	//1.C·ç¸ñ×Ö·û´®
+	//1.Cé£æ ¼å­—ç¬¦ä¸²
 	char str[] = "hello world";
 	cout << str << endl;
 
-	//2.C++·ç¸ñ×Ö·û´®
+	//2.C++é£æ ¼å­—ç¬¦ä¸²
 	string str2 = "hello world";
 	cout << str2 << endl;
 
@@ -17,4 +16,3 @@ int main() {
 
 	return 0;
 }
-*/
